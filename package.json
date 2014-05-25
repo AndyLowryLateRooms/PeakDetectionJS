@@ -1,0 +1,15 @@
+{
+  "name": "PeakDetectionJS",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andy Lowry",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.19.0",
+    "chai": "~1.9.1"
+  }
+}
